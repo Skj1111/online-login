@@ -1,1 +1,3 @@
-pyTelegramBotAPI PyGithub flask
+pyTelegramBotAPI
+PyGithub
+flask
