@@ -15,7 +15,7 @@ def run_web():
 
 # --- CONFIGURATION ---
 # ⚠️ Yahan apne asli tokens daalein (Ya Render Environment Variables use karein)
-TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN', '8843405427:AAHXSRDJyVqNqP5FUl0bZgic_xeRSNOc30w')
+TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN', '')
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
 REPO_NAME = 'Skj1111/online-login'
 FILE_KEYS = 'keys.txt'
