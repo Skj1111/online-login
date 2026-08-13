@@ -1,1 +1,1 @@
-pip install pyTelegramBotAPI PyGithub flask
+pyTelegramBotAPI PyGithub flask
